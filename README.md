@@ -23,5 +23,6 @@ Le rapport est rédigé directement dans le notebook, avec des explications au f
 4. Pré-processing (3 méthodes)
 5. Post-processing (2 méthodes)
 6. Résultats et métriques
+7. Conclusion
 
 Les commentaires et analyses sont intégrés dans les cellules Markdown entre les blocs de code, formant un rapport exécutable et interactif.
