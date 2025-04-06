@@ -2,7 +2,7 @@
 Bias detection on a Chest X-ray (NIH 14) dataset
 
 # Rapport d'analyse de fairness sur des radiographies thoraciques
-
+- Les datset d'images Train et Valid ne sont pas fournies, mais ce seront les données de Vladimir Herrera Nativi les utilisés 
 ## Contenu du notebook
 
 Ce fichier Jupyter Notebook (`projet_PENA-CASTANO_Javier_HERRERA-NATIVI_Vladimir.ipynb`) contient un rapport complet analysant les biais dans un modèle de détection de symptômes radiologiques. Il comprend :
